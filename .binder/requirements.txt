@@ -1,0 +1,53 @@
+#Utilities
+jupytext
+jupyter-server-proxy
+nbzip
+#jupyter-archive
+nbresuse
+git+https://github.com/NII-cloud-operation/Jupyter-multi_outputs
+nbgitpuller
+tqdm
+
+#Linting
+flake8
+pycodestyle
+pycodestyle_magic
+## Install additional style convention rules
+pep8-naming
+flake8-bugbear
+flake8-docstrings
+flake8-builtins
+## Provide additional conventions for pandas code
+pandas-vet
+## Autorepair
+autopep8
+
+#Tutor
+nbtutor
+RISE
+
+#Updates
+ipywidgets>=7.5.0
+nbconvert>=5.5.0
+
+#For generating interactive web demos
+nbinteract
+voila
+
+# Notebook extensions
+jupyter_contrib_nbextensions
+jupyter-wysiwyg
+
+#Python tutor
+nbtutor
+git+https://github.com/innovationOUtside/nb_cell_diff.git
+
+
+git+https://github.com/innovationOUtside/nb_extension_empinken.git
+#Not yet packaged properly:
+#git+https://github.com/innovationOUtside/nb_extension_twoCol.git
+
+# Drawing
+git+https://github.com/innovationOUtside/flowchart_js_jp_proxy_widget.git
+
+
